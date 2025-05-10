@@ -55,23 +55,23 @@ Welcome to SC3L workshop!
   - Apr 2nd, Wed: Food Industry Complex building, room 42
   - Apr 3rd, Thur: Chase Hall 148
 
-  🟥 Power analysis and examples in SAS
+  ❎ Power analysis and examples in SAS
   - Apr 9th, Wed
   - Apr 10th, Thur
 
-  ⚪️ Multivariate analyses using R
+  ❎ Multivariate analyses using R
   - Apr 16th, Wed
   - Apr 17th, Thur
 
-  ⚪️ Machine learning techniques I and application in R
+  ❎ Machine learning techniques I and application in R
   - Apr 23th, Wed
   - Apr 24th, Thur
 
-  ⚪️ Machine learning techniques II and application in R
+  ❎ Machine learning techniques II and application in R
   - Apr 30th, Wed
   - May 1st, Thur
 
-  ⚪️ What to do with non-normal data? Examples in SAS
+  ❎ What to do with non-normal data? Examples in SAS
   - May 7th, Wed
   - May 8th, Thur
 
